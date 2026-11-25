@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AUTO SALES</string>
+
+    <string name="desc_logo">Logo Auto Sales</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="login_bienvenido">Bienvenido</string>
+    <string name="login_subtitulo">Inicia sesión para continuar</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_error_credenciales">Correo o contraseña incorrectos.</string>
+    <string name="login_error_vacios">Ingresa tu correo y contraseña.</string>
+    <string name="login_mostrar_password">Mostrar contraseña</string>
+    <string name="login_ocultar_password">Ocultar contraseña</string>
+    <string name="login_demo">Cuenta de prueba: juan.perez@email.com / 1234</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_ofertas">Ofertas</string>
+    <string name="menu_ventas">Subir Venta</string>
+    <string name="menu_perfil">Perfil</string>
+
+    <string name="desc_auto">Auto en venta</string>
+    <string name="titulo_ofertas">Catálogo de Ofertas</string>
+    <string name="subtitulo_ofertas">Selecciona un auto para realizar tu apartado de compra</string>
+    <string name="descripcion_ofertas">Descuento del 20% en autos sedán.</string>
+    <string name="btn_apartar_comprar">Apartar / Comprar</string>
+    <string name="titulo_mis_compras">Mis Compras Realizadas (%1$d)</string>
+
+    <string name="titulo_publicar_venta">Publicar Auto en Venta</string>
+    <string name="label_auto_nombre">Nombre del Auto / Modelo</string>
+    <string name="label_auto_descripcion">Descripción del Vehículo</string>
+    <string name="label_auto_precio">Precio ($ USD)</string>
+    <string name="label_vendedor_nombre">Nombre del Vendedor</string>
+    <string name="btn_subir_venta">Subir Venta / Publicar</string>
+    <string name="error_campos_incompletos">Por favor completa todos los campos correctamente.</string>
+    <string name="titulo_ventas_recientes">Ventas Publicadas Recientemente (%1$d)</string>
+    <string name="titulo_publicaciones_vendedores">Publicaciones de Otros Vendedores (%1$d)</string>
+    <string name="label_vendedor">Vendedor: %1$s</string>
+    <string name="label_fecha">Fecha: %1$s</string>
+
+    <string name="titulo_perfil">Perfil de Usuario</string>
+    <string name="desc_foto_perfil">Foto de Perfil</string>
+    <string name="label_nombre_completo">Nombre Completo</string>
+    <string name="label_correo_electronico">Correo Electrónico</string>
+    <string name="label_telefono_contacto">Teléfono de Contacto</string>
+    <string name="label_direccion">Dirección / Ubicación</string>
+    <string name="btn_guardar_perfil">Guardar Cambios de Perfil</string>
+    <string name="msg_perfil_actualizado">¡Perfil actualizado exitosamente!</string>
+    <string name="btn_cerrar_sesion">Cerrar Sesión</string>
+</resources>
